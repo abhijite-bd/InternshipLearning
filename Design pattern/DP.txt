@@ -1,0 +1,5 @@
+Design pattern is a reuseable solution for common software development problem.
+3 types of software development design pattern
+1. Creational ->process of object creation or problems related to object creation
+2. Structural ->explains how to assemble objects and classes into larger structure
+3. Behavioural->concerned with algorithms and the assignments of responsibilities between objects
